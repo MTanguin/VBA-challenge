@@ -1,4 +1,4 @@
-# VBA-challenge
+#### "Using VBA in analysing stock market data"
 VBA Functions | Iterations | Conditional Formatting | Working with Worksheets
 
 
