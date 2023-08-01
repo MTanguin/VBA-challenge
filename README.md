@@ -35,6 +35,6 @@ Created a script that loops through all the stocks for one year and outputs the 
 ![2018 StockMarketAnalysis](https://github.com/MTanguin/VBA-challenge/assets/114210481/7377c44e-f8c1-4fc0-a79e-787986aa2312)
 
 
-Source:
+### Source:
 
 https://courses.bootcampspot.com/courses/2799/assignments/42915?module_item_id=802686
